@@ -1,6 +1,15 @@
 {
 	"books": [
 		{
+			"urlIndex": 3,
+			"title": "Unmasking Autism: Discovering the New Faces of Neurodiversity",
+			"author": "Devon Price",
+			"description": "For every visibly Autistic person you meet, there are countless “masked” Autistic people who pass as neurotypical. Masking is a common coping mechanism in which Autistic people hide their identifiably Autistic traits in order to fit in with societal norms, adopting a superficial personality at the expense of their mental health. This can include suppressing harmless stims, papering over communication challenges by presenting as unassuming and mild-mannered, and forcing themselves into situations that cause severe anxiety, all so they aren’t seen as needy or “odd.”",
+			"tags": [
+				"Psychology"
+			]
+		},
+		{
 			"urlIndex": 4,
 			"title": "Digitalization and Development: Ecosystem for Promoting Industrial Revolution 4.0 Technologies in Malaysia",
 			"author": "Rajah Rasiah",
@@ -306,16 +315,6 @@
 				"Neurology",
 				"Mediation",
 				"Research"
-			]
-		},
-		{
-			"urlIndex": 34,
-			"title": "A Hacker's Mind",
-			"author": "Bruce Schneier",
-			"description": "It's not just computers—hacking is everywhere.\n\nLegendary cybersecurity expert and New York Times best-selling author Bruce\nSchneier reveals how using a hacker's mindset can change how you think about\nyour life and the world.\n\nA hack is any means of subverting a system's rules in unintended ways. The tax\ncode isn't computer code, but a series of complex formulas. It has\nvulnerabilities; we call them \"loopholes.\" We call exploits \"tax avoidance\nstrategies.\" And there is an entire industry of \"black hat\" hackers intent on\nfinding exploitable loopholes in the tax code. We call them accountants and tax\nattorneys.\n\nIn A Hacker's Mind, Bruce Schneier takes hacking out of the world of computing\nand uses it to analyze the systems that underpin our society: from tax laws to\nfinancial markets to politics. He reveals an array of powerful actors whose\nhacks bend our economic, political, and legal systems to their advantage, at the\nexpense of...",
-			"tags": [
-				"Hacking",
-				"Technology"
 			]
 		},
 		{
